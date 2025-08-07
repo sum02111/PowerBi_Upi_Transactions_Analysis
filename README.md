@@ -17,8 +17,12 @@ This Power BI dashboard analyzes UPI (Unified Payments Interface) transaction da
 
 ## 📁 Files Included
 
-- `PowerBi Project , UPI trancsactions Data Analysis.pdf` – Exported dashboard for preview
-- `README.md` – Project overview and documentation
+## 📁 Files Included
+
+- [📄 PowerBi Project , UPI trancsactions Data Analysis.pdf](PowerBi%20Project%20,%20UPI%20trancsactions%20Data%20Analysis.pdf) – Dashboard preview  
+- [📊 UPI+Transactions.xlsx](UPI+Transactions.xlsx) – Source data used in this project  
+- [📝 README.md](README.md) – Project documentation
+
 
 ---
 
